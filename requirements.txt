@@ -1,0 +1,14 @@
+sentence-transformers==2.7.0
+faiss-cpu==1.12.0
+PyPDF2==3.0.1
+langchain-text-splitters==0.2.2
+numpy==1.26.4
+pdfminer.six==20221105
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+streamlit==1.26.0
+requests==2.31.0
+python-dotenv==1.0.0
+# Optional/outer integrations (no strict pin to allow flexibility)
+langchain
+google-generative-ai
